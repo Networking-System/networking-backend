@@ -1,0 +1,6 @@
+{
+    "networkingProject": {
+        "port": 3001,
+        "db_name": "networkingProject"
+    }
+}
